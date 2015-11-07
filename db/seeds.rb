@@ -13,7 +13,7 @@ Product.create(:title => 'Predator',
     %{<p>
         Predator is the greatest movie of all time. A group of guys with guns are dropped into the jungle to kill an alien they didn't even know was there.
       </p>},
-  :image_url => '/images/predator.jpg',
+        :image_url => 'arnold.jpg',
   :price => 9.99)
 #...
 Product.create(:title => 'Commando',
@@ -21,7 +21,7 @@ Product.create(:title => 'Commando',
     %{<p>
         Commando is the greatest movie of all time. A single guy with a bunch of guns is dropped into the the middle of a wicked plot to kill him.
       </p>},
-  :image_url => '/images/commando.jpg',
+        :image_url => 'arnold.jpg',
   :price => 9.99)
 #...
 Product.create(:title => 'Jingle All the Way',
@@ -29,6 +29,6 @@ Product.create(:title => 'Jingle All the Way',
     %{<p>
         Jingle All the Way is the greatest Christmas movie of all time. Can Arnold get his kid the hottest Christmas toy ever in time? WE'LL SEE!
       </p>},
-  :image_url => '/images/jingle.jpg',
+        :image_url => 'arnold.jpg',
   :price => 9.99)
 #...
