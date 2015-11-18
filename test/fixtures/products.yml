@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  description: MyText
-  image_url: MyString
+predator:
+  title: Predator
+  description: Predator is the greatest movie of all time. A group of guys with guns are dropped into the jungle to kill an alien they didn't even know was there.
+  image_url: arnold.jpg
   price: 9.99
 
-two:
-  title: MyString
-  description: MyText
-  image_url: MyString
+commando:
+  title: Commando
+  description: Commando is the greatest movie of all time. A single guy with a bunch of guns is dropped into the the middle of a wicked plot to kill him.
+  image_url: arnold.jpg
   price: 9.99
